@@ -1,7 +1,7 @@
 # LÆSE DETTE
 Denne base er ikke **undtected!**
 
-Virker kun på FiveM_b2699_GameProcess.exe
+Virker kun på FiveM_b2699_GameProcess.exe (Det kan man self ændre eller lave en funktion der detecter hvad for en version det er)
 
 **Vil nok råde til at bruge min LLA injector. Kan gøre det lidt mere safe at bruge den**
 
