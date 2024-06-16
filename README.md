@@ -10,3 +10,7 @@ Showcase: https://streamable.com/1qxoed
 Basen blev lavet på 20 min. Den er ikke så god.
 
 Discord help: https://discord.gg/4Qh7nM6mvP
+
+Credit:
+* Master-Dream404
+* Notepad
